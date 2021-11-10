@@ -1,7 +1,7 @@
 openapi: 3.1.0
 info:
   version: '1.2'
-  title: making hell lot of changes see
+  title: and andothr
 servers:
   - url: 'https://petstore.swagger.io/v1'
 paths:
